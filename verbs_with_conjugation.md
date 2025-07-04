@@ -21,12 +21,36 @@ prohibition = nicht dürfen
 obligation = müssen   
 wish = „möchten“   
 
+
+| # | German Preposition | English Translation | Example Sentence |
+|---|---|---|---|
+| 1 | **an** | on, at, to | *Das Buch liegt **an** dem Tisch.* (The book is lying on the table.) |
+| 2 | **auf** | on, upon | *Die Katze sitzt **auf** der Matte.* (The cat is sitting on the mat.) |
+| 3 | **in** | in, inside | *Ich wohne **in** Berlin.* (I live in Berlin.) |
+| 4 | **mit** | with | *Ich gehe **mit** meiner Freundin ins Kino.* (I'm going to the cinema with my girlfriend.) |
+| 5 | **von** | from, of | *Das Geld ist **von** meinem Vater.* (The money is from my father.) |
+| 6 | **zu** | to, towards | *Ich gehe **zu** Hause.* (I'm going home.) |
+| 7 | **bei** | at, near, with | *Ich bin **bei** meinem Freund.* (I am with my friend.) |
+| 8 | **gegenüber** | opposite, across from | *Das Restaurant ist **gegenüber** dem Bahnhof.* (The restaurant is opposite the train station.) |
+| 9 | **über** | over, about, regarding | *Wir sprechen **über** das Wetter.* (We are talking about the weather.) |
+| 10 | **unter** | under | *Das Buch liegt **unter** dem Stuhl.* (The book is lying under the chair.) |
+| 11 | **aus** | out of, from | *Der Kaffee ist **aus** der Kanne.* (The coffee is from the pot.) |
+| 12 | **nach** | to, after | *Ich gehe **nach** Hause.* (I'm going home.) |
+| 13 | **seit** | since, for | *Ich wohne **seit** drei Jahren in Deutschland.* (I have lived in Germany for three years.) |
+| 14 | **durch** | through | *Wir gehen **durch** den Park.* (We are walking through the park.) |
+| 15 | **für** | for | *Das Geschenk ist **für** dich.* (The gift is for you.) |
+| 16 | **gegen** | against | *Ich bin **gegen** Krieg.* (I am against war.) |
+| 17 | **ohne** | without | *Ich möchte ihn **ohne** zu stören verlassen.* (I would like to leave without disturbing him.) |
+| 18 | **mit** | with (can also be a verb meaning to be together) | *Ich bin **mit** meinem Bruder unterwegs.* (I am out with my brother.) |
+| 19 | **vor** | in front of, before | *Das Haus steht **vor** dem Fluss.* (The house stands in front of the river.) |
+| 20 | **hinter** | behind | *Das Auto steht **hinter** dem Haus.* (The car is parked behind the house.) |
+
+
+
 # Present Tense Conjugation (präsens)
 
 
-
-
-Here are the following verbs which I found difficult to conjugate (Improper verbs)
+Here are the following verbs that I found difficult to conjugate (Improper verbs)
 
 |sl| Verb| ich | du| er/sie/es | wir | ihr | sie |
 |:--|-----:|------:|---:|----------:|------:|-----:|-----:|
