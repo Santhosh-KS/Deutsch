@@ -39,12 +39,12 @@
 |5| die Abneigungen | dislike| "Sie hat eine große Abneigung für Bücher."  ("She has a great dislikes for books.")|
 
 
-
+# Datum: 03/07/2025
 
 |sl| wort| meaning| satz|
 |:--:|:--|:--|:--|
-|6| der Wortschatz| vocabulary| |
-|7| die aussprache| pronunciation| |
-|8| die Wendepunkte| turning points | |
-|9| der bericht| report | |
-|10| die Vergangenheit| past| |
+|6| der Wortschatz| vocabulary| Der Wortschatz spielt eine wichtige Rolle, wenn man eine neue Sprache lernt. |
+|7| die aussprache| pronunciation| Ich muss an meiner Aussprache arbeiten. (I need to work on my pronunciation.)|
+|8| die Wendepunkte| turning points | Ich habe viele Wendepunkte in meinem Leben. (I have many turning points in my life.)|
+|9| der bericht| report | Ich sehe einen Bericht über den Weltkrieg fern. (I see a report about the World War on TV.)|
+|10| die Vergangenheit| past| Jeder Mann hat eine eigene Vergangenheit. (Every man has his own past.)|
