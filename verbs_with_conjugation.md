@@ -22,6 +22,90 @@ obligation = müssen
 wish = „möchten“   
 
 
+
+# Dative Präpositionen
+
+[from this video notes](https://www.youtube.com/watch?v=ptfAc2uqxDY)
+
+| # | German Preposition | Type | English | Zum bispiel |  Example translation|
+|---|:---|---|:---|:--|:--|
+|1| ab| time preposition | starting / from |  Anna hat **_ab_** **nächster Woche**  Urlaub. | Anna is on vacation **_staring_** next week|
+||||| **_Ab_** **diesem Montag** gehe ich regelmäßig ins Fitnessstudio.| **From** this Monday, I'm going the gym regularly. |
+|2| aus| prepostion of direction| from / out of| Heidi kommt aus der Schweiz| Heidi comes from Switzerland.|
+|||||Der Lehrer kommt gerade aus dem Klassenzimmer.| The teacher is just coming out of the classroom.|
+|3|außer| |except / besides| Außer dir kommt heuter keiner zum meeting.| No one is commig to the meeting today except you.|
+|||||Ich esse alles, __außer__ **diesem Fisch**.| I eat everything except this fish.|
+|4| bei| local preposition|at| Holger ist **bei** seiner Mutter| Holger is **at** his mother's house.|
+|||||Sabine ist gerade beim Artz| Sabine is at the doctor.|
+|5| gegenüber| local preposition| across from| Gegenüber meiner Wohnung ist ein Park| There is a park opposite my appartment|
+|||||Die Bar ist gegenüber dem Bahnhof.| The bar is opposite the station.|
+|6|mit||with| Lisa ist mit dem Resultat nich zufrieden| Lisa is not satisfied with the result|
+|||||Joe geht mith **einem** Kummple ins Kino| Joe goes to the movies with a buddy.|
+|7|nach| 1. Preposition of direction|to/after| Tom geht nach der Arbeit nach Hause.| Tom goes home after work.|
+||| 2. time preposition|to/after| Wann fährst du nach Spanien? | When are you going to Spain?|
+|8|seit|time preposition| since / for| Wire leben schon seit einem monat dort| We have been living there for a month already.|
+|||||Pia ist seit letzter Woche krank.| Pia has been sick since last week.|
+|9| von| preposition of direction | from / by| Ist das Geschenk von dir?| Is the gift from you?|
+|||||Ich Komme gerade vom Frisoer| I've just come from the hairdresser.|
+|10| zu| preposition of direction| to| Ich fahre morgen zu meiner Schwester.| I'm going to my sister's tomorrow.|
+|||||Gehst du heuter zur Bank?| Are you going to the bank today?|
+
+
+### Notes
+
+#### bei (at)
+
+`bei + Namen / Berufe / Orte`
+
+`bei` always needs to be used with the `non-moving` verbs:
+- sein
+- arbeiten
+- essen
+- schlafen etc
+
+#### nach (to / after) 
+
+In the context of `preposition of direction`
+
+- `nach + Städte / Länder`
+- `nach + Süden / links,rechts`
+- **IMPORTANT**: If there is a country with an article example `die Schweiz` and `die USA` you use `in` prepostion.
+
+**Ich gehe __in__ die Schweiz. Ich gehe in die USA** etc
+
+
+#### zu (to)
+
+`zu + Personen / Berufe / Orte`
+
+`zu` is only used with verbs of movement!
+- fahren
+- gehen
+- kommen
+- fliegen.
+
+### nach vs zu 
+
+**nach** is only used for countries and cities.   
+**zu** is used for the places, and also when there is a movement in the verb.
+- Ich gehe zu Aldi.
+- Ich fahre zum Supermarkt.
+- Ich Komme in 5 Minuten zur Post. ( I will be at the post office in 5 minutes)
+
+### nach (as modal) --> According to
+
+- Nach einem Bericht im Internet, hatte Herr Christian einen Autounfall. (According to a report on the internet Mr Christian had a car accident.)
+- Nach meiner meinung... (In my opinion...)
+- Nach meiner Ansicht... (In my view...)
+- Nach meiner Erfahrung... (In my experience...)
+
+- Meiner Meinung nach.. (In my opinion...)
+- Meiner Ansicht nach.. (In my view...)
+- Meiner Erfahrung nach.. (In my experience...)
+
+
+# Präpositionen (AI generated)
+
 | # | German Preposition | English Translation | Example Sentence |
 |---|---|---|---|
 | 1 | **an** | on, at, to | *Das Buch liegt **an** dem Tisch.* (The book is lying on the table.) |
@@ -52,7 +136,7 @@ wish = „möchten“
 
 Here are the following verbs that I found difficult to conjugate (Improper verbs)
 
-|sl| Verb| ich | du| er/sie/es | wir | ihr | sie |
+|sl| Verb| ich (-e)| du (-st)| er/sie/es (-t)| wir (-en) | ihr (-t) | sie (-en) |
 |:--|-----:|------:|---:|----------:|------:|-----:|-----:|
 |1 | sehen|sehe| s**ie**hst| s**ie**ht| sehen| **seht**| sehen|
 |2 | antworten|antworte| antwort**est**| antwortet| antworten| antwortet| antworten|
