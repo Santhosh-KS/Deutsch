@@ -39,7 +39,7 @@
 |5| die Abneigungen | dislike| "Sie hat eine große Abneigung für Bücher."  ("She has a great dislikes for books.")|
 
 
-# Datum: 03/07/2025
+# Datum: 05/07/2025
 
 |sl| wort| meaning| satz|
 |:--:|:--|:--|:--|
