@@ -1,7 +1,7 @@
-
+# Similar to English
 
 |sl| Adjektiv| Translation|
-|--|:--|:--|
+|:--:|:--|:--|
 |1|aggressiv| aggressive|
 |2|arrogant| arrogant|
 |3|dynamisch| dynamic|
@@ -18,7 +18,7 @@
 # Easy
 
 |sl| Adjektiv| Translation|
-|--|:--|:--|
+|:--:|:--|:--|
 |1|dumm| stupid|
 |2|egoistisch| selfish|
 |3|ehrlich| honest|
@@ -39,7 +39,7 @@
 # Difficult (part-1)
 
 |sl| Adjektiv| Translation|
-|--|:--|:--|
+|:--:|:--|:--|
 |1|angenehm| pleasant|
 |2|aufmerksam| attentive|
 |3|bescheiden| modest|
@@ -77,10 +77,10 @@
 |35|zuverlässig| reliable|
 
 
-#Difficult (Part-2)
+# Difficult (Part-2)
 
 |sl| Adjektiv| Translation|
-|--|:--|:--|
+|:--:|:--|:--|
 |1|abergläubisch| superstitious|
 |2|anhänglich| clinging|
 |3|anziehend| attractive|
