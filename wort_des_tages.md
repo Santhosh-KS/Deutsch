@@ -43,8 +43,19 @@
 
 |sl| wort| meaning| satz|
 |:--:|:--|:--|:--|
-|6| der Wortschatz| vocabulary| Der Wortschatz spielt eine wichtige Rolle, wenn man eine neue Sprache lernt. |
-|7| die aussprache| pronunciation| Ich muss an meiner Aussprache arbeiten. (I need to work on my pronunciation.)|
-|8| die Wendepunkte| turning points | Ich habe viele Wendepunkte in meinem Leben. (I have many turning points in my life.)|
-|9| der bericht| report | Ich sehe einen Bericht über den Weltkrieg fern. (I see a report about the World War on TV.)|
-|10| die Vergangenheit| past| Jeder Mann hat eine eigene Vergangenheit. (Every man has his own past.)|
+|1| der Wortschatz| vocabulary| Der Wortschatz spielt eine wichtige Rolle, wenn man eine neue Sprache lernt. |
+|2| die aussprache| pronunciation| Ich muss an meiner Aussprache arbeiten. (I need to work on my pronunciation.)|
+|3| die Wendepunkte| turning points | Ich habe viele Wendepunkte in meinem Leben. (I have many turning points in my life.)|
+|4| der bericht| report | Ich sehe einen Bericht über den Weltkrieg fern. (I see a report about the World War on TV.)|
+|5| die Vergangenheit| past| Jeder Mann hat eine eigene Vergangenheit. (Every man has his own past.)|
+
+# Datum: 06/07/2025
+
+|sl| wort| meaning| satz|
+|:--:|:--|:--|:--|
+|1|anfangen| To begin|Ich fange bald an, Japaneshce zu lernen. (I'm soon going to learn Japanese.)|
+|2|vorhaben| to plan| Ich habe vor, morgen nach Berlin zu gehen. (I am planning to go to Berlin tomorrow.)|
+|3|empfehlen|to recommend|Ich empflele dir, täglich fünf wort zu lernen. (I recommend you to learn 5 words.)|
+|4|schaffen|to pass| Lisa hoftt, die Prufüng zu schaffen. (Lisa hopes to pass the exam.)|
+|5|regnen|to rain| Bald fängt es an, zu regnen. (Soon it is going to rain.)|
+
