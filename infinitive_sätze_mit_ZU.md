@@ -2,9 +2,7 @@
 
 [Video Source](https://www.youtube.com/watch?v=cNUXmcmRE6Y)
 
-### Table 1.1
-
-#### Infinitive mit zu -- Verben
+# Section 1.1: Infinitive mit zu -- Verben
 
 Following are the verbes which we can use to form the sentences with `infinite MIT zu`
 
@@ -16,6 +14,7 @@ Following are the verbes which we can use to form the sentences with `infinite M
 |4|empfehlen|
 |5|hoffen|
 
+`Table 1.1`
 
 ## Example sentences
 
@@ -142,7 +141,7 @@ Here we can see there are 2 different subjects, Lisa` and `Hans`.
 If we form the sentence `Lisa hofft, die Prüfung zu schaffen`, it gives a different meaning.
 
 
-## Summarize
+### Summarize
 These verbs are not complete when used in HS. We need to provide additional information in the NS.   
 
 
@@ -158,3 +157,85 @@ These verbs are not complete when used in HS. We need to provide additional info
 |8|Er hat mir empfohlen, | weinger zu essen.|
 |9|Ich Hoffe, | bald gut Deutsch zu sprechen.| 
 |10|Lisa hofft, | die Prüfung zu schaffen.|
+
+
+# Section 1.2: Infinitive mit zu -- Nomen + haben
+
+### Verbs used
+|sl| Verb|
+|:--:|:--|
+|1|zeit haben|
+|2|Lust haben|
+|3|Angst haben|
+|4|Spaß haben bei|
+|5|Problem haben|
+|6|die Absicht haben (having intention of)|
+`Table 1.2`
+
+### Example sentences.
+|sl|Hauptsatzt (HS)|Nebensatzt (NS)| Translation|
+|:--:|--:|:--| :--|
+|1|Ich habe keine Zeit,| das Geschirr abzuwaschen.| I don't have time to was the dishes. |
+|2|Hast du Zeit,|am Abend einzukaufen?| Do you have time to shop in the evening?|
+|3|Ich have Lust, |nach draußen zu gehen| I feel like going outside.|
+|4|Hast du Lust, | einen Film zu sehen?| Do you feel like watching a moive?|
+|5|Ich habe Angst,| die Prüfung nicht zu schaffen| I'm afraid I won't pass the exam.|
+|6|Paul hat Angst,| zu versagen| Paul is afraid of failing.|
+
+### Sentence breakdown for "Trennenbarverben"
+
+```bash
+Ich habe keine Zeit, das Geschirr abzuwaschen.
+                                  |__________|
+                                        |
+                                  ab + zu  + waschen 
+                                      |___|
+                                        
+
+```
+```bash
+Hast du Zeit,am Abend einzukaufen?
+                      |__________|
+                            |
+                      ein + zu  +  Kaufen 
+                           |___|
+```
+
+ `abwaschen` and `einkaufen` both are seperable verbs (Trennenbarveben). For those kind of verbs `zu` comes inbetween those verbs as shown above
+
+
+### Sentence breakdown for "normal verbs"
+This case is similar to what we discussed in Section 1.1.
+
+```bash
+                                Verb at the end
+                                       |
+  Hauptsatz      Nebensatz          |------|
+|-------------| |---------------------------|
+Ich habe Angst, die Prüfung nicht zu schaffen
+
+```
+
+# Section 1.3: Infinitive mit zu -- Adjektive + sein/finden 
+
+### Verbs used
+|sl| Verb|
+|:--:|:--|
+|1|gesund sein|
+|2|erlaubt sein|
+|3|toll finden /sein|
+|4|wichtig sein / finden|
+|5|falsch sein / finden|
+|6| verboten sein|
+etc...
+
+### Example sentences.
+
+|sl|Hauptsatzt (HS)|Nebensatzt (NS)| Translation|
+|:--:|--:|:--| :--|
+|1|Es ist nicht gesund,| stundenlang zu sitzen| It's not healthy to sit for hours.|
+|2|Es ist gesund,|täglish Sport zu machen| It is healthy to exercise every day.|
+|3|Es ist nict erlaubt,|das Handy zu benutzen.| It is not allowed to use phone.|
+|4|Es ist erlaubt,|im zug zu essen|It is allowed to eat in Train.|
+|5|Ich finde es toll,|in dieser Firma zu arbeiten.| I think it's great to work at this company.|
+|6|Lisa findet es toll,| Detusch zu lernen.|Lisa thinks it's great to learn German.|
