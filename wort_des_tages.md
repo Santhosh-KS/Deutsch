@@ -59,3 +59,13 @@
 |4|schaffen|to pass| Lisa hoftt, die Prufüng zu schaffen. (Lisa hopes to pass the exam.)|
 |5|regnen|to rain| Bald fängt es an, zu regnen. (Soon it is going to rain.)|
 
+
+# Datum: 07/07/2025
+
+|sl| wort| meaning| satz|
+|:--:|:--|:--|:--|
+|1|abfahren|Mach vorwärts! Der Zug fährt gleich ab.| Hurry up! train is about to leave.|
+|2|anhaben| Santa hat heute rote Jake an| Sant is wearing a red Jake today|
+|3|anziehen|Was ziehst du heute Abend an?| What are you wearing today evening?|
+|4|aufhören| Der Regen hat aufgehört| The rain has stopped|
+|5|aufladen| Ich habe vergessen, mein handy aufzuladen.| I forgot to charge my phone.|
