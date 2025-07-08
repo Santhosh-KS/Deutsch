@@ -69,3 +69,35 @@
 |3|anziehen|Was ziehst du heute Abend an?| What are you wearing today evening?|
 |4|aufhören| Der Regen hat aufgehört| The rain has stopped|
 |5|aufladen| Ich habe vergessen, mein handy aufzuladen.| I forgot to charge my phone.|
+
+
+# Datum: 08/07/2025
+Some phrases with `so ... wie`
+
+|sl| wort| meaning| satz|
+|:--:|:--|:--|:--|
+|1|so + adjective + wie| so schnell wie möglich| As soon as possible!|
+|1|so + oft + wie| so oft wie möglich| As often as possible.|
+|1|so + viel + wie| so viel wie möglich| As much as possible.|
+|1||||
+
+
+|sl| Adjektiv| Komparativ| Superlativ|
+|:--:|:--|:--|:--|
+|1| groß|größer| am größten|
+|2| klien| kleiner| am kleinsten|
+|3| teuer| teurer| am teuersten|
+|4| billig| billiger| am billigsten|
+|5| komparativ + als| Bin ich älter als du?| Am I older than you?|
+
+`als` is always used with `Komparativ` --> `Komparativ + als `
+
+### Example -1
+Tina singt besser als Maria.    
+Tina sings better than Maria.   
+
+Tom ist größer als Leo.      
+Tom is taller than Leo.    
+
+Mia is schneller als Lisa.   
+Mia is fater than Lisa
