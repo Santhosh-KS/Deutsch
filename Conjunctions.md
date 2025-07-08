@@ -187,6 +187,14 @@ Tom hat Angst, weil er bald zum Arzt gehen muss.
 ```
 `muss` conjugated modal verbe is always last and the other verb `gehen` should always before the modal verb as in the above sentence.
 
+We can also use the following instead of `weil`
+
+|sl| alternativen|
+|--|:---|
+|1|deshalb|
+|2|darum|
+|3|deswegen|
+|4|aus diesem Grund (Because of these reasons)|
 
 ## dass (that)
 
