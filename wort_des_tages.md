@@ -101,3 +101,34 @@ Tom is taller than Leo.
 
 Mia is schneller als Lisa.   
 Mia is fater than Lisa
+
+
+# Datum: 09/07/2025
+
+[source](https://www.linguee.com/german-english/translation/schwach.html)
+
+## Schwach
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1| schwach |weak (adj) | Ich bin erkältet und fühle mich sehr schwach.| I have code and feel very weak. |
+|2| schwach| faint (adj)| Ein schwacher Geruch nach Schokalade hing in der Luft | A faint smell of chocolate lingered in the air.|
+|3| schwach | feeble (adj)| Er war müde und sprach mit schwacher Stimme | He was tired and was talking with a feeble voice.|
+|4| schwach| dim (adj)| Das Lich war so schwach, dass er kaum etwas sehen konnte | The light was so dim that he could barely see a thing.|
+|5|schwach | tenuous (adj)| Sein Argument was schwach un überzeugte mich nicht | His argument was tenuous and did not convince me.|
+
+
+# Datum: 10/07/2025
+
+[source](https://www.linguee.com/german-english/translation/traurig.html)
+
+## traurig
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1| traurig| sad (adj.)| Viele Menschen wehklagten bei dem traurigen Begräbnis.| Many people were keening at the sad funeral.|
+|2| traurig|blue (adj.)| Als ich traurig war, munterte mein Bruder mich auf| When I was feeling blue, my brother cheered me up.|
+|3| traurig|sorrowful (adj.)| Sie sah ihren Mann mit traurigem Blick an.| She looked at her husband with a sorrowful gaze.|
+|4| traurig|sorry (adj.)| Ich war traurig über den Verlust, den mein Freund erlitten hatte.| I felt sorry for the loss my friend had suffered.|
+|4| traurig|gloomy (adj.)| Ich versuchte, den traurigen Jungen aufzumuntern.| I tried to cheer up the gloomy boy.|
+
+
+
