@@ -110,11 +110,11 @@ Mia is fater than Lisa
 ## Schwach
 |sl| Word| different contenxt| Satzt| Translation|
 |:--:|:--|:--|:--|:--|
-|1| schwach |weak (adj) | Ich bin erkältet und fühle mich sehr schwach.| I have code and feel very weak. |
+|1| schwach |weak (adj) | Ich bin erkältet und fühle mich sehr schwach.| I have cold and feel very weak. |
 |2| schwach| faint (adj)| Ein schwacher Geruch nach Schokalade hing in der Luft | A faint smell of chocolate lingered in the air.|
 |3| schwach | feeble (adj)| Er war müde und sprach mit schwacher Stimme | He was tired and was talking with a feeble voice.|
 |4| schwach| dim (adj)| Das Lich war so schwach, dass er kaum etwas sehen konnte | The light was so dim that he could barely see a thing.|
-|5|schwach | tenuous (adj)| Sein Argument was schwach un überzeugte mich nicht | His argument was tenuous and did not convince me.|
+|5|schwach | tenuous (adj)| Sein Argument was schwach und überzeugte mich nicht | His argument was tenuous and did not convince me.|
 
 
 # Datum: 10/07/2025
