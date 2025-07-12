@@ -130,5 +130,17 @@ Mia is fater than Lisa
 |4| traurig|sorry (adj.)| Ich war traurig über den Verlust, den mein Freund erlitten hatte.| I felt sorry for the loss my friend had suffered.|
 |4| traurig|gloomy (adj.)| Ich versuchte, den traurigen Jungen aufzumuntern.| I tried to cheer up the gloomy boy.|
 
+# Datum: 12/07/2025
 
+[aufgeregt](https://www.linguee.com/german-english/translation/aufgeregt.html)
+[aufregen](https://www.linguee.com/german-english/translation/aufregen.html)
 
+## aufgeregt | aufregen (opposits)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1| aufgeregt | excited | Unserem Sonh ist an sienem Geburstag immer sehr augeregt.  | On his birthday, our son is always very excited. |
+|2| aufgeregt| excitedly | Die Menge schaute aufgeregt zu, als der Zauberer die Bühne betrat.| The crowd watched excitedly as the magician entered the stage.|
+|3| aufgeregt| excited.|Der Hund sprang aufgeregt auf mich zu. | The dog bounded excitedly towards me.|
+|4| aufregen | upset | Ich bin recht geduldig, nichts regt mich leicht auf. | I am quite patient, nothing upsets me easily. |
+|5| aufregen| agitate | Sein nervöses Herumlaufen regte sie auf. | His nervous walking around agitated her.|
