@@ -132,10 +132,10 @@ Mia is fater than Lisa
 
 # Datum: 12/07/2025
 
-[aufgeregt](https://www.linguee.com/german-english/translation/aufgeregt.html)
+[aufgeregt](https://www.linguee.com/german-english/translation/aufgeregt.html) |
 [aufregen](https://www.linguee.com/german-english/translation/aufregen.html)
 
-## aufgeregt | aufregen (opposits)
+## aufgeregt (excited) | aufregen (depressed) (opposits)
 
 |sl| Word| different contenxt| Satzt| Translation|
 |:--:|:--|:--|:--|:--|
@@ -144,3 +144,20 @@ Mia is fater than Lisa
 |3| aufgeregt| excited.|Der Hund sprang aufgeregt auf mich zu. | The dog bounded excitedly towards me.|
 |4| aufregen | upset | Ich bin recht geduldig, nichts regt mich leicht auf. | I am quite patient, nothing upsets me easily. |
 |5| aufregen| agitate | Sein nervöses Herumlaufen regte sie auf. | His nervous walking around agitated her.|
+
+
+# Datum: 12/07/2025
+
+[bedrückt](https://www.linguee.com/german-english/translation/bedrückt.html) |
+[befriedigt](https://www.linguee.com/german-english/translation/befriedigt.html) |
+[begeistert](https://www.linguee.com/german-english/translation/begeistert.html) 
+
+##  bedrückt (depressed / Gloomy) | befriedigt (satisfied) | begeistert	(excited)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|bedrückt| depressed / gloomy|Sie sah bedrückt aus und ich fragte sie, was los war.|She looked glum and I asked what was wrong.|
+|2|befriedigt| satisfied|Wir tun alles, um die Bedürfnisse unserer Kunden zu befriedigen.|We do everything to satisfy our customers' needs.|
+|3|begeistern|inspire|Er hatte die Fähigkeit, Menschen zu begeistern.|He had the ability to inspire people.|
+|4|begeistern|thrill|Der Schauspieler begeisterte das Publikum mit seiner Darbietung.| The actor thrilled the audience with his performance.|
+|5|begeistern|delight|Der Anschlag des Klavierspielers begeisterte die Kritiker.|The pianist's touch delighted the critics.|
