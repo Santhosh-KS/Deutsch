@@ -100,7 +100,7 @@ Tom ist größer als Leo.
 Tom is taller than Leo.    
 
 Mia is schneller als Lisa.   
-Mia is fater than Lisa
+Mia is faster than Lisa
 
 
 # Datum: 09/07/2025
@@ -146,7 +146,7 @@ Mia is fater than Lisa
 |5| aufregen| agitate | Sein nervöses Herumlaufen regte sie auf. | His nervous walking around agitated her.|
 
 
-# Datum: 12/07/2025
+# Datum: 13/07/2025
 
 [bedrückt](https://www.linguee.com/german-english/translation/bedrückt.html) |
 [befriedigt](https://www.linguee.com/german-english/translation/befriedigt.html) |
@@ -161,3 +161,21 @@ Mia is fater than Lisa
 |3|begeistern|inspire|Er hatte die Fähigkeit, Menschen zu begeistern.|He had the ability to inspire people.|
 |4|begeistern|thrill|Der Schauspieler begeisterte das Publikum mit seiner Darbietung.| The actor thrilled the audience with his performance.|
 |5|begeistern|delight|Der Anschlag des Klavierspielers begeisterte die Kritiker.|The pianist's touch delighted the critics.|
+
+
+# Datum: 14/07/2025
+
+
+[beleidigt](https://www.linguee.com/german-english/translation/beleidigt.html)
+
+
+
+## beleidigt (offended / insulted)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|beleidigt (adjective)| offended|Er spielte erst beleidigt, aber dann lachte er laut los.|He first acted offended, but then laughed out loud.|
+|2|beleidigen (verb)|offend|Ich wollte niemanden beleidigen.|I did not mean to offend anyone.|
+|3|beleidigen (verb)| abuse|Der Konkurrent beleidigte seinen Gengner verbal| The competitor abused his opponent verbally.|
+|4|beleidigen (verb)| affront| Die sexistische Werbung beleidigte Frauen.| The sexist advertisement affronted women.|
+|5|beleidigen|slight (sb.v)| Er beleidiget mich, indem er meine Einladung ignorierte.| He slighted me by ignoring my invitation.|
