@@ -179,3 +179,23 @@ Mia is faster than Lisa
 |3|beleidigen (verb)| abuse|Der Konkurrent beleidigte seinen Gengner verbal| The competitor abused his opponent verbally.|
 |4|beleidigen (verb)| affront| Die sexistische Werbung beleidigte Frauen.| The sexist advertisement affronted women.|
 |5|beleidigen|slight (sb.v)| Er beleidiget mich, indem er meine Einladung ignorierte.| He slighted me by ignoring my invitation.|
+
+# Datum: 15/07/2025
+
+[berührt](https://www.linguee.com/english-german/search?source=auto&query=ber%C3%BChrt) |
+[beschämt](https://www.linguee.com/english-german/search?source=auto&query=besch%C3%A4mt)
+
+
+## berührt (touched / affected) | beschämt (ashamed / embarrassed)
+
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|berührt (adjective)| touched / affected| Seine wundervolle Rede berührte das Publikum zutifst.| His wonderful speech deeply affected the audience.|
+|2|berühren (verb)|touch| Um dass Gerät zu bedienen, muss man den Bildschrim berühren| In order to operate the device, you nned to touch the screen.|
+|3| berühren|touch on something| Der Vortrag hat mehrere wichtige Themen berührt.| The lecture touched on several imporatant issues.|
+|4| beschämt| ashamed| Er beshämt darüber, wie seine Eltern mit seinem Lehrer sprachen.| He was ashamed of the way his parents talked to his teacher.|
+|5|beschämt|embarrassed| Nach der Niederlage waren die Spieler beschämt.| The players were embarrassed after the defeat.|
+
+
+
