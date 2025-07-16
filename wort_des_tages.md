@@ -198,4 +198,17 @@ Mia is faster than Lisa
 |5|beschämt|embarrassed| Nach der Niederlage waren die Spieler beschämt.| The players were embarrassed after the defeat.|
 
 
+# Datum: 16/07/2025
 
+[besorgt](https://www.linguee.com/english-german/search?source=auto&query=besorgt) |
+[beunruhigt](https://www.linguee.com/english-german/search?source=auto&query=beunruhigt)
+
+## besorgt ( worried / anxious) | beunruhigt (alarmed / worried / perturbed)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1| besorgt| worried| Ich bin nicht um meine Kinder besorgt, sie sind in Sicherheit.| I am not worried about my childer, they are safe.|
+|2|besorgt|anxious|Ich war besorgt, weil er spät nach Hause gekommen ist| I was anxious because he came home late.|
+|3|besorgt| afraid|Sie war besorgt, dass jemand ihre Schlüssel gestohlen haben könnte|She was afraid that someone might have stolen her keys.|
+|4|beunruhigt|worried| Ich bin nicht beunruhigt, ich fühle mich ruhig und entspannt.| I am not worried, I am feeling calm and relaxed.|
+|5|beunruhigt|perturbed|Ich bin so beunruhigt, dass ich nicht schlafen kann.| I am so perturbed that I cannot sleep.|
