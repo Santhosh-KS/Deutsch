@@ -212,3 +212,27 @@ Mia is faster than Lisa
 |3|besorgt| afraid|Sie war besorgt, dass jemand ihre Schlüssel gestohlen haben könnte|She was afraid that someone might have stolen her keys.|
 |4|beunruhigt|worried| Ich bin nicht beunruhigt, ich fühle mich ruhig und entspannt.| I am not worried, I am feeling calm and relaxed.|
 |5|beunruhigt|perturbed|Ich bin so beunruhigt, dass ich nicht schlafen kann.| I am so perturbed that I cannot sleep.|
+
+
+# Datum: 16/07/2025
+
+[bewegt](https://www.linguee.com/german-english/translation/bewegt.html) |
+[böse](https://www.linguee.com/english-german/search?source=auto&query=b%C3%B6se)
+
+## beweged (moved / motivate /shake) | böse ( evil / bad/ wicked/ nasty / mad / vicious / naughty / cross)
+
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|bewegen|move|Die Tänzerin bewegte anmutig die Arme| The dancer moved her arms gracefully.|
+|2|bewegen| motivate| Wir versuchen, unsere Angestellten zu Höchstleistungen zu bewegen.| We are trying to motivate our employees to top performance.|
+|3|bewegen|make a difference| Gemeinsam können wir im Umweltschutz etwas bewegen.|Together we can make a difference in environmental protection.|
+|4|bewegen|shake|Die Tänzer bewegten ihre Hüften zur Musik|The dancers shook their hips to the music.|
+|5|böse|evil|Der tapfere Prinz brach den Zauber der bösen Hexe.| The brave prince broke the spell of the evil witch.|
+|6|böse|bad| Der böse Wolf ist eine beliebte Figur in Märchen.| The bad wolf is a popular figure in fairy tales.|
+|7|böse|wicked| Die böse Hexe veliert am Ende.| The wicked witch loses at the end.|
+|8|böse|nasty| Sie warf ihm einen böse Blick zu.|She shot him a nasty look|
+|9|böse|mad|Ich war böse und Wut blitzte in meinen Augen auf| I was mad and anger flashed in my eyes.|
+|10|böse|vicious|Der Hund war früher böse, aber jetzt ist er lieb.|The dog used to be vicious, but nowit is friendly.|
+|11|böse|naughty| Der böse Witz meiner Frau brachte mich zum Lachen.|My wife's naughty joke made me laugh.|
+|12|böse|cross|Ich bin nicht böse auf dich| I am not cross with you.|
