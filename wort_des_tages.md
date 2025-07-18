@@ -214,7 +214,7 @@ Mia is faster than Lisa
 |5|beunruhigt|perturbed|Ich bin so beunruhigt, dass ich nicht schlafen kann.| I am so perturbed that I cannot sleep.|
 
 
-# Datum: 16/07/2025
+# Datum: 17/07/2025
 
 [bewegt](https://www.linguee.com/german-english/translation/bewegt.html) |
 [böse](https://www.linguee.com/english-german/search?source=auto&query=b%C3%B6se)
@@ -236,3 +236,23 @@ Mia is faster than Lisa
 |10|böse|vicious|Der Hund war früher böse, aber jetzt ist er lieb.|The dog used to be vicious, but nowit is friendly.|
 |11|böse|naughty| Der böse Witz meiner Frau brachte mich zum Lachen.|My wife's naughty joke made me laugh.|
 |12|böse|cross|Ich bin nicht böse auf dich| I am not cross with you.|
+
+
+
+# Datum: 17/07/2025
+
+[depremiert](https://www.linguee.com/german-english/translation/deprimiert.html) |
+[durstig](https://www.linguee.com/english-german/search?source=auto&query=durstig)
+[eifersüchtig](https://www.linguee.com/english-german/search?source=auto&query=eifers%C3%BCchtig) |
+[eingeschüchtert](https://www.linguee.com/english-german/search?source=auto&query=eingesch%C3%BCchtert)
+
+## depremiert (depressed) | durstig (thirsty) | eifersüchtig (jealous / possessive) | eingeschüchtert (intimidated /awed / frightend / terrified)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|deprimiert (adj)|depressed|Sie ist deprimiert, weil es die ganze Woche nur geregnet hat| She is depressed because it has been raining the entire week.|
+|2|deprimiert (adj)| downcast|Ich war richtig deprimiert, als meine tolle Idee abgelehnt wurde.| I was really downcast when my great idea was rejected.|
+|3|deprimieren (verb)|depress| Traurige Filme deprimieren mich, deshalb ziehe ich Komödien vor|Sad films depress me, so I prefer comedies.|
+|3|durstig (adj)| thirsty| Der durstige Mann nahm einen großen Schluck Wasser.| The thirsty man took a long pull of water.|
+|4|eifersüchtig|jealous|Kinde rsind oft eifersüchtig auf neugeborene Brüder order Schwestern.| Childern are often jealous of the newborn brother or sister.|
+|5|eingeschüchtert| intimidated|||
