@@ -87,3 +87,27 @@ Reflexive pronouns can be placed `before` or `after` the "Subject". Except when 
 - _Sie zieht sich den Hut an._ (She is putting her hat) (Subject --> Sie, Object --> den Hut)
 - _Ich kämme mich._ (I comb myself) 
 - _Ich kämme mir die Haare._ (I comb my hair) (Subject --> Ich, object --> die Haare)
+
+
+## List of A1-level Reflexive verbs
+
+[Video source](https://www.youtube.com/watch?v=VrnLbQDbnHI)
+
+|sl|verb|Type|meaning|Exmaple|
+|--|--|--|--|:--|
+|1| sich an-melden für| AKK | to sign up or in / to register| Petra meldet sich morgen für einen Deutschkurs an.|
+|2| sich an-ziehen |DAT| to get dressed / to put on something| Petra hat sich eine Maske angezogen.|
+|3| sich aus-ruhen||to rest| Paul macht eine Pause und ruht sich auf einer Bank aus.|
+|4| sich aus-ziehen|DAT|to get undressed / to take of something| Marc zieht sich sein T-Shirt aus.|
+|5| sich bedanken für (A) / bei (D)||to thank somebody for something| Wir bedanken uns bei dir für deine Unterstützung.(support)|
+|6| sich beschweren über|AKK|to complain about something or somebody.| Anna und Tom beschweren sich nur selten über das Essen.|
+|7| sich duschen|AKK|to take a shower| Ich dusche mich meistens am Abends.|
+|8| sich entschuldingen für|AKK|to apologize| Ich enschuldige mich für meine Verspätung.|
+|9| sich erholen||to recover / to relax| Am Strand erhole ich mich am besten.|
+|10| sich erinnern an|AKK|to remember| Erinnerst du dich an dein erstes deutsches Wort?|
+|11| sich freuen auf (A) / über (A)||to look forward / to be happy about something| Ich freue mich auf den Sommer.  Die Kinder freuen sich über das Geschenk.|
+|12| sich interessieren für||to be interested in| Ich intererssiere mich für Fußball. Wofür interessierst du dich? |
+|13| sich kümmern um (A)| AKK | to care / to look after somebody| Maria kümmert sich um ihre Oma.|
+|14| sich treffen mit| DAT| to meet up with somebody| Heute Abend treffe ich mich mit meinenFreunden.|
+|15| sich vorstellen||to introduce oneself / to imagine something| (AKK)Bitte stellen Sie sich vor. (DAT)Ich kann mir vorstellen, in einem Haus am Strand zu leben. ( I can image living in a house on the beach.)|
+|16| sich washen||to wash oneself| Wenn es heiß ist, wäscht sich Anton oft sein Gesicht.|
