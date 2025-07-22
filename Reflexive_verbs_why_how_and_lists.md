@@ -1,7 +1,7 @@
 # Reflexive Verbs
-
+---
 ## Basics:
-
+---
 Reflexive pronouns (pronomen) are added to all the reflexive verbs </br>
 
 Ex: _sich konzentrieren_ </br>
@@ -18,7 +18,7 @@ _Ich konzentriere mich_
 
 
 ### Simple Examples
-
+---
 - _Ich konzentriere mich_
 - _du konzentrierst dich_
 - _er/sie/es konzentriert sich_
@@ -69,7 +69,7 @@ Reflexive pronouns can be placed `before` or `after` the "Subject". Except when 
 
 
 # When to use Akk vs Dativ in Reflexive verbs?
-
+---
 ## Example: Washen
 
 - _Ich washe mich._ ( I wash myself)
@@ -90,6 +90,7 @@ Reflexive pronouns can be placed `before` or `after` the "Subject". Except when 
 
 
 ## List of A1-level Reflexive verbs
+---
 
 [Video source](https://www.youtube.com/watch?v=VrnLbQDbnHI)
 
@@ -111,3 +112,60 @@ Reflexive pronouns can be placed `before` or `after` the "Subject". Except when 
 |14| sich treffen mit| DAT| to meet up with somebody| Heute Abend treffe ich mich mit meinenFreunden.|
 |15| sich vorstellen||to introduce oneself / to imagine something| (AKK)Bitte stellen Sie sich vor. (DAT)Ich kann mir vorstellen, in einem Haus am Strand zu leben. ( I can image living in a house on the beach.)|
 |16| sich washen||to wash oneself| Wenn es heiß ist, wäscht sich Anton oft sein Gesicht.|
+
+
+## List of A2-level Reflexive verbs
+---
+
+[Video source](https://www.youtube.com/watch?v=UMbQxcw8MW0)
+
+|sl|verb|Type|meaning|Exmaple|
+|--|--|--|--|:--|
+|1|sich ändern||to change| Mein Plan hat sich geändert. (My plan has changed)|
+|2|sich ärgern über|AKK| to get annoyed / angry about| Die Affen ägern sich über den Lärm. (The monkeys are annoyed by the noise.)|
+|3|sich beeilen|| to hurry| Beeil dich! (Hurry up!)|
+|4|sich bewerben bei (DAT) / um (AKK)|| to apply at / for|Lisa hat sich bei BMW beworben. (Lisa has applied for a job at BMW). Marx Bewirbt sich um ein Stipendium. (Max applies for a scholarship.)|
+|5|sich eintragen||to register / sign up| Baxter trägt sich in der Liste ein. (Baxter sigs up on the list)|
+|6|sich fühlen|AKK|to feel| Karl fühlt sich wieder besser. (Karl is feeling better again.)|
+|7|sich informieren über|AKK|to get informetion about| Florian informiert sich über Tiere? (Florian gets information about the animal?). Wo informierst du dich? (Where do you get your information?)|
+|8|sich etwas kaufen||to buy something for yourself| Sie haben sich ein altes Auto gekauft.(They have bought an old car [for themselves])|
+|9|sich etwas kochen||to cook something for yourself.| Marco hat sich Nudeln gekocht. (Marco cooked himself some noodles)|
+|10|sich etwas merken||to memorize something| Ich kann mir das nicht merken!(I cannot mermorize this!)|
+|11|sich rasieren||to shave| Ich rasiere mich nicht so oft. (I don't shave that often)|
+|12|sich schneiden||to cut yourslef| Mona hat sich gerade geschnitten. (Mona just cut herself)|
+|13|sich setzen||to sit down| Bitte setzen Sie sich (Please sit down).|
+|14|sich streiten mit||to argue with someone| Marie streitet sich mit ihrem Bruder.(Maria is arguing with her brother)|
+|15|sich umziehen||to change cloths|Ich ziehe mich gerade um. (I am changing my clothes right now.)|
+|16|sich unterhalten über||to talk/ chat about|Sie unterhalten sich über Politik. (They are talking about Politics)|
+|17|sich verletzen an|DAT|to get injured| Er hat sich am Bein verletzt.(He injured his leg)|
+|18|sich verlieben||to fall in love| Er hat sich in sie verliebt. (He feel in love with her)|
+|19|sich weh-tun||to hurt oneself|Wo tut es ihnen denn weh? (Where does it hurt?)|
+|20|sich etwas wünschen||to wish for| Ich wünsche mir einen Daumen hoch. ( I would like to see a thumbs up)|
+
+## Ideoms
+---
+
+### _sich grün und blau ärgern_ (sich ärgern)
+
+DE: _Ich habe mich grün und blau geärget!_ </br>
+EN: _Get very angry!_ </br>
+
+
+### _sich streiten können_ (sich streiten)
+
+DE: _Darüber kann man sich streiten!_ </br>
+EN: _That's debatable!_ </br>
+
+### _sich (gut) treffen_ (sich treffen)
+
+DE: _Das trifft sich gut, dass du anrufts!_ </br>
+EN: _Perfect timing!_ </br> 
+
+### _sich nicht gehören_ (sich gehören)
+
+DE: _Man rülpst nicht! Das gehört sich nicht!_ </br>
+EN: _Men don't Burp! Bad manners!_ </br>
+
+
+  
+
