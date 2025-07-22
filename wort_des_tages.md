@@ -239,7 +239,7 @@ Mia is faster than Lisa
 
 
 
-# Datum: 17/07/2025
+# Datum: 18/07/2025
 
 [depremiert](https://www.linguee.com/german-english/translation/deprimiert.html) |
 [durstig](https://www.linguee.com/english-german/search?source=auto&query=durstig)
@@ -256,3 +256,5 @@ Mia is faster than Lisa
 |3|durstig (adj)| thirsty| Der durstige Mann nahm einen großen Schluck Wasser.| The thirsty man took a long pull of water.|
 |4|eifersüchtig|jealous|Kinde rsind oft eifersüchtig auf neugeborene Brüder order Schwestern.| Childern are often jealous of the newborn brother or sister.|
 |5|eingeschüchtert| intimidated|||
+
+
