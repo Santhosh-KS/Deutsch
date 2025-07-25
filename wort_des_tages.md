@@ -258,3 +258,29 @@ Mia is faster than Lisa
 |5|eingeschüchtert| intimidated|||
 
 
+
+# Datum: 24/07/2025
+
+[durstig](https:/A/www.linguee.com/german-english/translation/durstig.html) |
+[eifersüchtig](https://www.linguee.com/german-english/translation/eifers%C3%BCchtig.html) |
+[einsam](https://www.linguee.com/german-english/translation/einsam.html)
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|durstig (adj)|thirsty|Der durstige Mann nahm einen großen Schluck Wasser.|A thirsty man took a long sip of water.|
+|2|eifersüchtig (adj)|jelous|Kinder sind oft eifersüchtig auf neugeborene Brüder oder Schwestern.|Children are often jealous of a newborn brother or sister.|
+|3|einsam|lonely|Wenn ich abends keine Gesellschaft habe, fühle ich mich einsam.|If I have no company in the evening, I feel lonely.|
+|4|einsam|lone|Im Wald heulte ein einsamer Wolf.|A lone wolf was howling in the forest.|
+|5|einsam|solitary|Der alte Mann genießt sein einsames Leben oben auf dem Berg.|The old man enjoys his solitary life at the top of the mountain.|
+|6|einsam|desolate |ch kam zu einem einsamen Haus mitten in der Wüste.| I arrived at a desolate house in the middle of the desert.|
+|7|einsam|reclusive|Der einsame Schriftsteller lebt allein.| The reclusive writer lives alone.|
+
+# Template: Datum: 24/07/2025
+
+|sl| Word| different contenxt| Satzt| Translation|
+|:--:|:--|:--|:--|:--|
+|1|||||
+|2|||||
+|3|||||
+|4|||||
+|5|||||
