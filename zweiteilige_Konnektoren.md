@@ -10,7 +10,7 @@
 - I do like / do .... both
 
 ### Example-1
-DE: _Tom lernt nicht nur Deutsch, sondern auch Spanisch._ </br>
+DE: **Tom lernt $\huge{\color{Yellow}{\textsf{nicht nur}}}$ Deutsch, $\huge{\color{Yellow}{\textsf{sondern auch}}}$ Spanisch.** </br>
 EN: _Tom not only learning German, but also Spanish._ </br>
 
 - $\huge{\color{Orange}{\textsf{subject}}}$
@@ -26,7 +26,7 @@ EN: _Tom not only learning German, but also Spanish._ </br>
 
 ### Example-2
 
-DE: _Er hat als kind nicht nur Tennis, sondern auch Fußball gespielt._ </br>
+DE: _Er hat als kind $\huge{\color{Yellow}{\textsf{nicht nur}}}$ Tennis, $\huge{\color{Yellow}{\textsf{sondern auch}}}$ Fußball gespielt._ </br>
 EN: _As a kid, he not only played Tennis, but also played football._ </br>
 
 |sub|verb||pos-0|sub|verb| |
@@ -36,16 +36,16 @@ EN: _As a kid, he not only played Tennis, but also played football._ </br>
 
 ### Example-3
 
-DE: _Jetzt mach er nicht nur oft sport, sondern arbeitet auch viel._ </br>
+DE: **Jetzt mach er $\huge{\color{Yellow}{\textsf{nicht nur}}}$ oft sport, $\huge{\color{Yellow}{\textsf{sondern}}}$ arbeitet auch viel._ </br>
 EN: _Now he not only often plays, but also works a lot._ </br>
 
-|sub|verb||pos-0|sub|verb| |
+||verb||pos-0|sub|verb| |
 |---|---|---|---|---|---|---|
 |Jetzt|$\huge{\color{SkyBlue}{\textsf{mach}}}$|$\huge{\color{Orange}{\textsf{er}}}$ $\huge{\color{Yellow}{\textsf{nicht nur}}}$ oft sport,|sondern|$\huge{\color{Orange}{\textsf{er}}}$|$\huge{\color{SkyBlue}{\textsf{arbeitet}}}$|$\huge{\color{Yellow}{\textsf{auch}}}$ viel.|
 |Jetzt|$\huge{\color{SkyBlue}{\textsf{mach}}}$|$\huge{\color{Orange}{\textsf{er}}}$ $\huge{\color{Yellow}{\textsf{nicht nur}}}$ oft sport,|sondern||$\huge{\color{SkyBlue}{\textsf{arbeitet}}}$|$\huge{\color{Yellow}{\textsf{auch}}}$ viel.|
 
 
-> In this example sentence we see that `subject (er)` didn't change in 2 sentences but the verbs are different and hence we only dropped the `subject` in sencond part of the sentence.
+> In this example sentence, we see that `subject (er)` didn't change in 2 sentences but the verbs are different and hence we only dropped the `subject` in sencond part of the sentence.
 
 
 ## 2. sowohl ... als such (both ... and)
@@ -55,7 +55,7 @@ This is exactly similar to `wie "nicht nur..., sondern such"` but there is only 
 
 ### Example-1
 
-DE: _Anna spielt sowohl Geige  auch Cello._ </br>
+DE: **Anna spielt $\huge{\color{Yellow}{\textsf{sowohl}}}$ Geige  $\huge{\color{Yellow}{\textsf{auch}}}$ Cello.** </br>
 EN: _Anna plays both Violin and Cello._ </br>
 
 
@@ -68,7 +68,7 @@ EN: _Anna plays both Violin and Cello._ </br>
 > Here the complete sentence is HS and there is only one verb i.e, `spielt`, which is important to use `sowol...auch`
 The `subject` and `verb` didn't change, and that is important.
 
-DE: _Sie hat sowol mit ihrere Mutter als auch mith ihrem Bruder gespielt._ </br>
+DE: _Sie hat $\huge{\color{Yellow}{\textsf{sowohl}}}$ mit ihrere Mutter $\huge{\color{Yellow}{\textsf{als auch}}}$ mith ihrem Bruder gespielt._ </br>
 EN: _She has played with her Mother and with her brother._ </br>
 
 
@@ -79,7 +79,7 @@ It is the opposite of No-1 and 2.
 
 ### Example-1
 
-DE: _Max mag weder Bier noch Wein._ </br>
+DE: **Max mag $\huge{\color{Yellow}{\textsf{entweder}}}$ Bier $\huge{\color{Yellow}{\textsf{noch}}}$ Wein.** </br>
 EN: _Max likes neither beer nor wine._ </br>
 
 
@@ -101,7 +101,7 @@ EN: _He neither does sports nor does he read books._ </br>
 
 ### Example-3
 
-DE: _Er kann weder singer noch tanzen._ </br>
+DE: **Er kann $\huge{\color{Yellow}{\textsf{weder}}}$ singer $\huge{\color{Yellow}{\textsf{noch}}}$ tanzen.** </br>
 EN: _He can neither sing nor dance._ </br>
 
 
@@ -115,12 +115,12 @@ EN: _He can neither sing nor dance._ </br>
 
 Either the first or the second, but not both of them.
 
-> eine Alternative geben (Zukunft)
-> to give an alternative (future)
+> eine Alternative geben (Zukunft) </br>
+> to give an alternative (future) </br>
 
 ### Example-1
-DE: _Ich kaufe entweder eine Couch oder einen neuen Fernseher._ </br>
-EN: _I am either buying acouch or a new television._ </br>
+DE: **Ich kaufe $\huge{\color{Yellow}{\textsf{entweder}}}$ eine Couch $\huge{\color{Yellow}{\textsf{oder}}}$ einen neuen Fernseher.**</br>
+EN: _I am either buying a couch or a new television._ </br>
 
 
 |sub|verb||pos-0|sub|verb| | |
@@ -222,5 +222,29 @@ EN: _The more you speak German, the better you become._ </br>
 
 |1|1|sub||verb|pos-1||verb|
 |---|---|---|---|---|---|---|---|
-| Je | mehr| du| Deutsch| sprichtst,| desto| besser| wirst| du|
+| $\huge{\color{Yellow}{\textsf{Je}}}$ | mehr| du| Deutsch| sprichtst,| $\huge{\color{Yellow}{\textsf{desto}}}$| besser| wirst| du|
+| $\huge{\color{Yellow}{\textsf{Je}}}$ | mehr| du| Deutsch| sprichtst,| $\huge{\color{Yellow}{\textsf{umso}}}$| besser| wirst| du|
+
+### Example-2
+
+DE: **Je weniger du schläfst, desto müder bist du.** </br>
+EN: _The less you sleep, the more tired you are._ </br>
+
+
+### Example-3
+
+DE: **Je häufiger du wierderholst, desto einfacher wird es.** </br>
+EN: _The more you review, the easier it becomes._ </br>
+
+
+## Position of verb/ Subject
+---
+|||||||||
+|---|---|---|---|---|---|---|---|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{nicht nur}}}$|...|$\huge{\color{Yellow}{\textsf{sondern auch}}}$| $\huge{\color{Orange}{\textsf{Subject}}}$|$\huge{\color{SkyBlue}{\textsf{verb}}}$|...|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{entweder}}}$|...|$\huge{\color{Yellow}{\textsf{oder}}}$| $\huge{\color{Orange}{\textsf{Subject}}}$|$\huge{\color{SkyBlue}{\textsf{verb}}}$|...|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{zwar}}}$|...|$\huge{\color{Yellow}{\textsf{aber}}}$| $\huge{\color{Orange}{\textsf{Subject}}}$|$\huge{\color{SkyBlue}{\textsf{verb}}}$|...|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{weder}}}$|...|$\huge{\color{Yellow}{\textsf{noch}}}$| $\huge{\color{SkyBlue}{\textsf{Verb}}}$|$\huge{\color{Orange}{\textsf{Subject}}}$|...|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{einerseits}}}$|...|$\huge{\color{Yellow}{\textsf{andererseits}}}$| $\huge{\color{SkyBlue}{\textsf{Verb}}}$|$\huge{\color{Orange}{\textsf{Subject}}}$|...|
+|$\huge{\color{Orange}{\textsf{Subject}}}$| $\huge{\color{SkyBlue}{\textsf{verb}}}$| $\huge{\color{Yellow}{\textsf{sowohl}}}$|...|$\huge{\color{Yellow}{\textsf{als auch}}}$| $\huge{\color{SkyBlue}{\textsf{Verb}}}$|$\huge{\color{Orange}{\textsf{Subject}}}$|...|
 
