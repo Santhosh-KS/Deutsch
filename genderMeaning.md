@@ -1,4 +1,7 @@
-## [Source](https://ia801403.us.archive.org/1/items/hammers-german-grammar-and-usage/hammer%27s%20german%20grammar%20and%20usage.pdf)
+## Identify `der` `die` and `das` with the endings.
+
+> [!TIP]
+> [Source](https://ia801403.us.archive.org/1/items/hammers-german-grammar-and-usage/hammer%27s%20german%20grammar%20and%20usage.pdf)
 
 # Masculine
 
@@ -38,47 +41,47 @@ There are exceptions;  check the source link.
 
 
 # Gender and Form
-
+---
 ## Masculine Endings
 
 |sl| endings|example|
 |--|--------|-------|
-|1| -ant| der Konsonant|
-|2| -ast| der Kontrast|
-|3| -ich| der Teppich|
-|4| -ig| der Honig|
-|5| -ismus| der Sozialismus|
-|6| -ling| der Liebling|
-|7| -or | der Motor|
-|8| -us| der Rhythmus|
+|1| $\huge{\color{Yellow}{-ant}}$ | der Konsonant|
+|2| $\huge{\color{Yellow}{-ast}}$ | der Kontrast|
+|3| $\huge{\color{Yellow}{-ich}}$| der Teppich|
+|4| $\huge{\color{Yellow}{-ig}}$| der Honig|
+|5| $\huge{\color{Yellow}{-ismus}}$| der Sozialismus|
+|6| $\huge{\color{Yellow}{-ling}}$| der Liebling|
+|7| $\huge{\color{Yellow}{-or}}$ | der Motor|
+|8| $\huge{\color{Yellow}{-us}}$| der Rhythmus|
 
 
 ## Feminine Endings
 
 |sl| endings|example|
 |--|--------|-------|
-|1| -a | die Pizza|
-|2| -anz/-enz| die Eleganz|
-|3| -ei| die Bücherei|
-|4| -ik| die Panik|
-|5| -in| die Freundin|
-|6| -schaft| die Herrschaft|
-|7| -sion/-tion| die Explosion|
-|8| -t| die Universität|
-|9| -ung| die Bedeutung|
-|10| -ur| die Natur|
+|1| $\huge{\color{Yellow}{-a}}$ | die Pizza|
+|2| $\huge{\color{Yellow}{-anz/-enz}}$| die Eleganz|
+|3| $\huge{\color{Yellow}{-ei}}$| die Bücherei|
+|4| $\huge{\color{Yellow}{-ik}}$| die Panik|
+|5| $\huge{\color{Yellow}{-in}}$| die Freundin|
+|6| $\huge{\color{Yellow}{-schaft}}$| die Herrschaft|
+|7|$\huge{\color{Yellow}{-sion/-tion}}$ | die Explosion|
+|8| $\huge{\color{Yellow}{-t}}$| die Universität|
+|9| $\huge{\color{Yellow}{-ung}}$| die Bedeutung|
+|10| $\huge{\color{Yellow}{-ur}}$| die Natur|
 
 
 ## Neuter Endings
 
 |sl| endings|example|
 |--|--------|-------|
-|1| -chen| das Mädchen|
-|2| -lein| das Büchlein|
-|3| -ma| das Drama|
-|4| -tel| das Viertel|
-|5| -tum| das Eigentum|
-|6| -um| das Album|
+|1| $\huge{\color{Yellow}{-chen}}$| das Mädchen|
+|2| $\huge{\color{Yellow}{-lein}}$| das Büchlein|
+|3| $\huge{\color{Yellow}{-ma}}$| das Drama|
+|4| $\huge{\color{Yellow}{-tel}}$| das Viertel|
+|5| $\huge{\color{Yellow}{-tum}}$| das Eigentum|
+|6| $\huge{\color{Yellow}{-um}}$| das Album|
 
 
 
