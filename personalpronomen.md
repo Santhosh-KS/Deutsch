@@ -1,7 +1,7 @@
 # Persoanlpronomen
 ---
 
-|sl|$\color{Orange}{Nominativ}$ |English| $\color{Cyan}{Akkusativ}$|English|Dativ|English|
+|sl|$\color{Orange}{Nominativ}$ |English| $\color{Cyan}{Akkusativ}$|English|$\color{LimeGreen}{Dativ}$|English|
 |---|---|---|---|---|---|---|
 |1| $\color{Orange}{ich}$|I|  $\color{Cyan}{mich}$|me| $\color{LimeGreen}{mir}$ |to me|
 |2| $\color{Orange}{du}$|you|  $\color{Cyan}{dich}$|you| $\color{LimeGreen}{dir}$|to you|
