@@ -33,8 +33,9 @@ graph LR
 [IOCNET (I/O Carrier Network)](https://www.dspace.com/en/pub/home/products/hw/simulator_hardware/scalexio/scalexio_iocnet.cfm)    
 
 Need more details about the "SCALEXIO Rack System" mentioned in the PPT. 
-- Exact configuartion
-- Who will provide the Matlab/Simulink vehicle models?
+- Exact details of SCALEXIO Rack System used in the existing gHiL system.
+- Since we are talking about the dSpace system. We need Matlab/Simulink Vehicle models
+    - Who will provide the Matlab/Simulink vehicle models?
 - How are we going to simulate the environments?
   - Replaying the sensor and/or video data? (What tools are used to replay the data?)
   - Synthetic data simulation from the dspace? (Details about how these data is fed into the ADAS subsystems?)
